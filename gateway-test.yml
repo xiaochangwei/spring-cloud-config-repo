@@ -1,5 +1,5 @@
 test:
-  message: hello-1000
+  message: hello-10011
 server:
   port: 9060
 spring:
